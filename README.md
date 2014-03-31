@@ -1,2 +1,1 @@
-# MEST_TWITTER
-==============
+# Django_TWITTER
