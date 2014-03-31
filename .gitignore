@@ -1,0 +1,3 @@
+*.pyc
+django_twitter/settings/dev.py
+django_twitter/settings/prod.py
